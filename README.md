@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @wcgordon1 Aka Will.
+- 👋 Hi, I’m Will.
 
-- 👀 I’m interested in learning to code.
+- 👀 I’m interested in a lot.
 
-- 🌱 I’m currently learning JavaScript. Yikes! I thought I had a lot figured out after html and css. Little did I know...
+- 🌱 I’m currently learning...
 
-- 💞️ I’m looking to collaborate on ...  Anything. Any advice is welcomed.
+- 💞️ I’m looking to collaborate on ...  
 
-- 📫 How to reach me ...
+- 📫 Are these backlinks? We'll find out in 3 seconds. https://aiofficebot.com/ 
 
 <!---
 wcgordon1/wcgordon1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
