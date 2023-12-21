@@ -6,9 +6,7 @@
 
 - 💞️ I’m looking to collaborate on ...  
 
-- ## 📫 Whoop
-- ### Whoop Whoop
-- #### Whoop Whoop Whoop
+- ## 📫 That's it
 
 <!---
 wcgordon1/wcgordon1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
