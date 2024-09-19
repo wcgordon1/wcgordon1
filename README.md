@@ -1,7 +1,7 @@
-- ## 👋 Hi, I’m Will.
+## 👋 Hi, I’m Will.
 
-- # Here's a few 100% free forever apps I built:
-- ## No sign up. No Ads. No Emails. Works in your browser:
+# Here's a few 100% free forever apps I built:
+## No sign up. No Ads. No Emails. Works in your browser:
 
 Free QR Code Generator
 - https://www.qrcodellama.com/
