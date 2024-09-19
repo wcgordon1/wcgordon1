@@ -1,8 +1,15 @@
 - ## 👋 Hi, I’m Will.
 
-- # Here's a few free things:
+- # Here's a few 100% free forever apps I built:
+- ## No sign up. No Ads. No Emails. Works in your browser:
+
+Free QR Code Generator
+- https://www.qrcodellama.com/
   
+Color Palette Extractor and HEX RBG Picker
 - https://www.colorpicker.photos/
+  
+Convert any files into webp (no limit on file size, works in browser)
 - https://www.webp.zip/
 
 - Will add more as I make them. 
