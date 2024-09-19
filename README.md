@@ -12,7 +12,7 @@ Color Palette Extractor and HEX RBG Picker
 Convert any files into webp (no limit on file size, works in browser)
 - https://www.webp.zip/
 
-- Will add more as I make them. 
+Will add more as I make them. 
 
 <!---
 wcgordon1/wcgordon1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
