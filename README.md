@@ -3,14 +3,20 @@
 # Here's a few 100% free forever apps I built:
 ## No sign up. No Ads. No Emails. Works in your browser:
 
-Free QR Code Generator
+### LinkedIn Banner Editor:
+- https://www.banners.li/
+
+### Free QR Code Generator
 - https://www.qrcodellama.com/
   
-Color Palette Extractor and HEX RBG Picker
+### Color Palette Extractor and HEX RBG Picker
 - https://www.colorpicker.photos/
   
-Convert any files into webp (no limit on file size, works in browser)
+### Convert any files into webp (no limit on file size, works in browser)
 - https://www.webp.zip/
+
+### Newly Coded Site:
+- https://indieaffiliate.io/
 
 Will add more as I make them. 
 
