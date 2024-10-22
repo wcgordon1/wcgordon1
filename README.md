@@ -1,7 +1,7 @@
-## 👋 Hi, I’m Will.
+# 👋 Hi, I’m Will.
 
-# Here's a few 100% free forever apps I built:
-## No sign up. No Ads. No Emails. Works in your browser:
+## Here's a few 100% free forever apps I built:
+### No sign up. No Ads. No Emails. Works in your browser:
 - Github Repos are open on these top 4. Take the code, use it if you want. All good.
 
 ### LinkedIn Banner Editor:
@@ -18,8 +18,8 @@
 
 
 ## Some other sites:
-- These don't have open repos. just kind of fun to build.
-- 
+- These don't have open repos. just kind of fun to build. If you want to look, I guess ask. Code isn't very good. 
+  
 ### Indie Affiliate
 - <a href="https://indieaffiliate.io/" target="_blank">Indie Affiliate</a>
 
