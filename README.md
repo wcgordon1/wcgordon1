@@ -2,6 +2,7 @@
 
 # Here's a few 100% free forever apps I built:
 ## No sign up. No Ads. No Emails. Works in your browser:
+- Github Repos are open on these top 4. Take the code, use it if you want. All good.
 
 ### LinkedIn Banner Editor:
 - https://www.banners.li/
@@ -15,10 +16,19 @@
 ### Convert any files into webp (no limit on file size, works in browser)
 - https://www.webp.zip/
 
-### Newly Coded Site:
-- https://indieaffiliate.io/
 
-Will add more as I make them. 
+## Some other sites:
+- These don't have open repos. just kind of fun to build.
+- 
+### Indie Affiliate
+- <a href="https://indieaffiliate.io/" target="_blank">Indie Affiliate</a>
+
+### Best Electrician jobs
+- <a href="https://bestelectricianjobs.com/" target="_blank">Best Electrician Jobs</a>
+
+### Okay Directory
+- <a href="https://okay.directory/" target="_blank">Okay Directory</a>
+
 
 <!---
 wcgordon1/wcgordon1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
