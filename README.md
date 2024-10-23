@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Will.
 
 ## Here's a few 100% free forever apps I built:
+- **Github Repos are open on these top 4. Take the code, use it if you want. All good.**
+  
 ### No sign up. No Ads. No Emails. Works in your browser:
-- Github Repos are open on these top 4. Take the code, use it if you want. All good.
 
 ### LinkedIn Banner Editor:
 - https://www.banners.li/
