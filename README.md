@@ -18,6 +18,10 @@
 - https://www.webp.zip/
 
 
+# 20 projects in 2 months
+- These are surprisingly good for the speed at which they were built. Check them out >>>
+- <a href="https://starterbuild.com/projects/" target="_blank">Projects</a>
+
 ## Some other sites:
 - These don't have open repos. just kind of fun to build. If you want to look, I guess ask. Code isn't very good. 
   
