@@ -1,10 +1,14 @@
 # 👋 beee boo beeeeee
 
-#### Do backlinks work?
+#### Do backlinks work? Prob not.. imma lnk doh
 
 1. [StarterBuild](https://starterbuild.com)  
 2. [PopResume](https://www.popresume.com)  
-3. [Best Electrician Jobs](https://www.bestelectricianjobs.com)  
+3. [Best Electrician Jobs](https://www.bestelectricianjobs.com)
+4. [IndieAffiliate](https://indieaffiliate.io)
+5. [Swipe.Photo](https://swipe.photo)
+6. [Vows.You](https://vows.you)
+7. [CSV.Domains](https://csv.domains)
 
 #### What else?
 
