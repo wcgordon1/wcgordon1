@@ -9,6 +9,8 @@
 5. [Swipe.Photo](https://swipe.photo)
 6. [Vows.You](https://vows.you)
 7. [CSV.Domains](https://csv.domains)
+8. [AwakeMode](https://awakemode.com)
+9. [Okay.Directory](https://okay.directory)
 
 #### What else?
 
