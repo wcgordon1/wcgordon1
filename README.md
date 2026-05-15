@@ -12,7 +12,7 @@
 8. [AwakeMode](https://awakemode.com)
 9. [PopResume](https://www.popresume.com)  
 10. [Okay.Directory](https://okay.directory)
-11. [Color Picker]((https://www.colorpicker.photos/)
+11. [Color Picker](https://www.colorpicker.photos/)
 12. [QR Code Llama](https://www.qrcodellama.com/)
 13. [Business Process Review](https://businessprocessreview.com/)
 14. [Business Process Review Podcast](https://podcasts.apple.com/us/podcast/business-process-review-ai-that-actually-works/id1896636368)
