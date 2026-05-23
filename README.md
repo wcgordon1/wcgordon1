@@ -25,7 +25,7 @@
 2. [Kite List](https://kitelist.com/) >> Acquired. Retargetting for Twitter (old school) ads. Great project.
 3. [FormulasHQ](https://formulashq.com/) >> Acquired. AI for Excel / Sheets / Python. 80,000 users. Grew like crazy.
 4. [Custom GPT Directory](https://customgptdirectory.com/) >> Acquired. Ranked #1 on Google for term CustomGPT when that was hot. New site does not look good but oh well. Had a Discord server too I never managed. Tons of users.
-> Sold more stuff but the sites aren't live. Odd. Find it odd you can sell a domain name for 200K and 5 years later they still haven't updated the nameservers. C'est la vie i suppose...
+> Sold more stuff but the sites aren't live. Odd... Also find it odd you can sell a domain name for 150K and 5 years later they still haven't updated the nameservers. C'est la vie i suppose...
 
 #### What else?
 
