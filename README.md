@@ -21,14 +21,10 @@
 17. [Business Process Review Podcast](https://podcasts.apple.com/us/podcast/business-process-review-ai-that-actually-works/id1896636368)
 
 ### more...
-1. [AI Office Bot](https://aiofficebot.com/)
-- Acquired. Microsoft Copilot pre Copilot. Although not as effective. Got the domain back!
-2. [Kite List](https://kitelist.com/)
-- Acquired. Retargetting for Twitter (old school) ads. Great project.
-3. [FormulasHQ](https://formulashq.com/)
-- Acquired. AI for Excel / Sheets / Python. 80,000 users. Grew like crazy.
-4. [Custom GPT Directory](https://customgptdirectory.com/)
-- Acquired. Ranked #1 on Google for term CustomGPT when that was hot. New site does not look good but oh well. Had a Discord server too I never managed. Tons of users.
+1. [AI Office Bot](https://aiofficebot.com/) >> Acquired. Microsoft Copilot pre Copilot. Although not as effective. Got the domain back!
+2. [Kite List](https://kitelist.com/) >> Acquired. Retargetting for Twitter (old school) ads. Great project.
+3. [FormulasHQ](https://formulashq.com/) >> Acquired. AI for Excel / Sheets / Python. 80,000 users. Grew like crazy.
+4. [Custom GPT Directory](https://customgptdirectory.com/) >> Acquired. Ranked #1 on Google for term CustomGPT when that was hot. New site does not look good but oh well. Had a Discord server too I never managed. Tons of users.
 
 #### What else?
 
