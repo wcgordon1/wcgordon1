@@ -27,9 +27,11 @@
 4. [Custom GPT Directory](https://customgptdirectory.com/) >> Acquired. Ranked #1 on Google for term CustomGPT when that was hot. New site does not look good but oh well. Had a Discord server too I never managed. Tons of users.
 > Sold more stuff but the sites aren't live. Odd... Also find it odd you can sell a domain name for 150K and 5 years later they still haven't updated the nameservers. C'est la vie i suppose...
 
-#### What else?
-
-dunno
+### more more
+- Dream is to own a domain registrar.
+- Been obsessed with domain names since the mid 90s.
+- Built [MoonKid Domains](https://www.moonkid.org/), a weird little Handshake TLD experiment. The name was terrible, but the project was fun. Porkbun and Encirca both sold the domains publicly, which still feels pretty cool.
+- It's currently $227,000 for ICANN to consider your application. I think you prob want around 5 mil to attempt...
 
 <!---
 wcgordon1/wcgordon1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
