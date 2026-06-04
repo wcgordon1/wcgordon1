@@ -17,9 +17,10 @@
 13. [PopResume](https://www.popresume.com)  
 14. [Okay.Directory](https://okay.directory)
 15. [Color Picker](https://www.colorpicker.photos/)
-16. [QR Code Llama](https://www.qrcodellama.com/)
-17. [Business Process Review](https://businessprocessreview.com/)
-18. [Business Process Review Podcast](https://podcasts.apple.com/us/podcast/business-process-review-ai-that-actually-works/id1896636368)
+16. [Text me a Secret](https://textmeasecret.com/)
+17. [QR Code Llama](https://www.qrcodellama.com/)
+18. [Business Process Review](https://businessprocessreview.com/)
+19. [Business Process Review Podcast](https://podcasts.apple.com/us/podcast/business-process-review-ai-that-actually-works/id1896636368)
 
 ### more...
 1. [AI Office Bot](https://aiofficebot.com/) >> Acquired. Microsoft Copilot pre Copilot. Although not as effective. Got the domain back!
