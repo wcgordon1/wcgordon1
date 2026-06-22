@@ -1,6 +1,9 @@
 # 👋 beee boo beeeeee
 
-#### Do backlinks work? Prob not.. imma lnk doh
+#### Do backlinks work? Prob not.. 
+
+[html.contact](https://html.contact/))
+- new thing... been on the to do list since I started coding... email for forms! 
 
 1. [StarterBuild](https://starterbuild.com)
 2. [Globe + Location Data](https://starterbuild.com/where-am-i)
